@@ -9,9 +9,10 @@ export default {
         emptyOutDir: true,
         rollupOptions: {
             input: {
-                marioKart: resolve('pages/marioKart.html'),
-                mortalKombat: resolve('pages/mortalKombat.html'),
-                pagoExitoso: resolve('pages/pagoExitoso.html'),
+                index: resolve('/index.html'),
+                mariokart: resolve('pages/mariokart.html'),
+                mortalkombat: resolve('pages/mortalkombat.html'),
+                pagoexitoso: resolve('pages/pagoexitoso.html'),
                
             }
         }
