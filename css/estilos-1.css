@@ -1,0 +1,195 @@
+body {
+background-color: #E11364;
+padding-left: 30px; 
+padding-right: 30px;
+}
+header {
+margin-bottom: 20px;
+background-color: #BC105C;  
+border: solid 1px #BC105C;
+border-right-color: white;
+border-right-width: 5px;
+border-left-width: 5px;
+border-left-color: white;
+}
+h1 {
+text-align: center;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;  
+}
+main {
+    padding-top: 4px;
+background-color: #BC105C;
+padding-left: 15px; 
+padding-right: 15px;
+border-radius: 5px;
+padding-bottom: 40px;
+}
+h2 {
+text-align: left;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+h3 {color: #9C0037;
+    width: 120%;
+border-bottom: 1px dotted #9C0037;
+text-align: right;
+padding-top: 10px;
+margin-left: 4%;
+}
+.mario_kart{
+     padding-right: 22%;
+padding-top: 5px;
+background-color: white;
+border-radius: 5px;
+padding-bottom: 15px;
+}
+.img_mario {
+width: 130%;
+border-radius: 5px;
+margin: auto;}
+article{
+text-align: center;
+}
+p{
+text-align: left;
+margin: 10px 38px 10px 43px;
+}
+figcaption{
+text-align: left;
+}
+a.enlace { 
+    margin-left: 250px;   
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+background-color: green;
+border-radius: 5px;
+padding: 3px;
+padding-bottom: 5px;
+} 
+a.enlace:hover { 
+color: pink; 
+background-color: #E11364;
+}
+div {
+    padding-right: 22%;
+margin-top: 30px;
+background-color: white;
+border-radius: 5px;
+padding-bottom: 15px;
+}
+
+.img_mortal{
+    width: 130%;
+margin: auto;
+border-radius: 5px;
+}
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    background-color: #E96093;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+/* pag Mario*/
+.mario_personal {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    width: 99%;
+    margin: 10px 200px 10px 1px;
+    border-radius: 5px;
+}
+    
+
+
+.mario_luigi{
+    margin-right: 15px;
+    width: 25%;
+}
+.mario_choca{
+    width: 20%;
+    margin-right: 15px;
+}
+
+.mario_escapa{
+    width: 20%;
+    margin-right: 15px;
+    
+}
+.multijugador {
+    color: #9C0037;
+    width: 120%;
+border-bottom: 1px dotted #9C0037;
+text-align: right;
+margin-left: 30px;
+padding-top: 10px;
+margin-left: 4%;
+}
+.boton{ text-align: center;
+    padding-top: 10px;
+    padding-left:
+}
+
+   /*  pagina de mortal combat 11 */
+
+.escorpion {
+    margin-right: 15px;
+    width: 20%;
+}
+
+.espadas {
+    width: 20%;
+    margin-right: 15px;
+
+}
+.gancho {
+    width: 20%;
+    margin-right: 15px;
+}
+  
+.botoninicio{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-left: 39%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+} 
+a.botoninicio:hover { 
+    color: pink; 
+    background-color: #E11364;
+    }
+    
+.pagoExitoso{text-align: center;
+    background-color: black;
+    }
+.pagoexito.{
+    background-color: black;
+}
+ 
+.pagoexitoso{
+    margin-bottom: 50px;
+}
+
+.visto{
+    width: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+    
